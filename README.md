@@ -16,4 +16,4 @@ https://pawelgrzybek.com/the-difference-between-any-and-unknown-type-in-typescri
 
 ### 前端部署
 
-[2021 年当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839#heading-0)
+[2021 年当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839)
